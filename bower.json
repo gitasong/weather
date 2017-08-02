@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Nicole Freed <nicole.freed@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
